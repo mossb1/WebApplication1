@@ -20,6 +20,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            
+            <asp:Label ID="Label1" runat="server" Text="UWSP - Mac Address Lookup" BackColor="#512698" Font-Names="Arimo" ForeColor="White" Width="100%" Font-Size="Large"></asp:Label>
+            
         </div>
         <table class="auto-style1">
             <tr>
